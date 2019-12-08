@@ -1,4 +1,4 @@
 Current Releases
 
-ZeroNode Setup Instuctions
-https://github.com/zerocurrencycoin/Zero-Wallets/wiki/Zeronode-Setup
+Zero Node Setup Instuctions
+https://github.com/zerocurrencycoin/Zero-Wallets/wiki/Zero-Node-Setup
